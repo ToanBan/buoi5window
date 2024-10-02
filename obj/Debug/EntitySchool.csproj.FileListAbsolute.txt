@@ -1,0 +1,15 @@
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\bin\Debug\EntitySchool.exe.config
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\bin\Debug\EntitySchool.exe
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\bin\Debug\EntitySchool.pdb
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\obj\Debug\EntitySchool.csproj.AssemblyReference.cache
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\obj\Debug\EntitySchool.Form1.resources
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\obj\Debug\EntitySchool.Properties.Resources.resources
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\obj\Debug\EntitySchool.csproj.GenerateResource.cache
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\obj\Debug\EntitySchool.csproj.CoreCompileInputs.cache
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\obj\Debug\EntitySchool.exe
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\obj\Debug\EntitySchool.pdb
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\bin\Debug\EntityFramework.dll
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\bin\Debug\EntityFramework.xml
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\bin\Debug\EntityFramework.SqlServer.xml
+D:\Workspace\laptrinhwindow\EntitySchool\EntitySchool\obj\Debug\EntitySc.4EF5CF1B.Up2Date
